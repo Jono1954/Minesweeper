@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Minesweeper/task" />
+            <option value="$PROJECT_DIR$/Problems/Check the numbers" />
+            <option value="$PROJECT_DIR$/Problems/Check the order" />
+            <option value="$PROJECT_DIR$/Problems/Count the numbers" />
+            <option value="$PROJECT_DIR$/Problems/Counting" />
+            <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Problems/Delegation" />
+            <option value="$PROJECT_DIR$/Problems/Find the max" />
+            <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems/Fridge" />
+            <option value="$PROJECT_DIR$/Problems/Individual taxes" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems/Is it here" />
+            <option value="$PROJECT_DIR$/Problems/Just checking" />
+            <option value="$PROJECT_DIR$/Problems/Last digit" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/Swap elements" />
+            <option value="$PROJECT_DIR$/Problems/The longest sequence" />
+            <option value="$PROJECT_DIR$/Problems/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Problems/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/The roots of equation" />
+            <option value="$PROJECT_DIR$/Problems/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
